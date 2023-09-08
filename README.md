@@ -46,3 +46,46 @@ console.log(engKattaZichlik)*/
 
 
 //  Maxmin-6
+/*
+let n = 24;
+let a = 32;
+let b = 54;
+let c = 89;
+let d = 23;
+
+
+let min = Math.min(n,a,b,c,d);
+let max = Math.max(n,a,b,c,d);
+
+switch(min){
+    case n : console.log(1); break;
+    case a : console.log(2); break;  
+    case b : console.log(3); break;  
+    case c : console.log(4); break;  
+    case d : console.log(5); break;  
+
+}
+
+switch(max){
+    case n : console.log(1); break;
+    case a : console.log(2); break;  
+    case b : console.log(3); break;  
+    case c : console.log(4); break;  
+    case d : console.log(5); break;  
+   
+}*/
+
+
+//  Maxmin-7
+//  Maxmin-8
+//  Maxmin-9
+//  Maxmin-10
+//  Maxmin-11
+//  Maxmin-12
+//  Maxmin-13
+//  Maxmin-14
+//  Maxmin-15
+//  Maxmin-16
+//  Maxmin-17
+//  Maxmin-18
+
